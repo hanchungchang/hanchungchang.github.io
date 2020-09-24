@@ -12,8 +12,11 @@ I'm a M.S. student in the School of Information Science and Technology at the Sh
 
 <img src="https://github.com/hanchungchang/hanchungchang.github.io/blob/gh-pages/shn.jpg" div align=left />
 <strong>Sep. 2015 - Jun. 2019, Communication Engineering, Shanghai Normal University,</strong>
+
 Undergraduate Student. GPA: 3.70/4.00
-Advised by Prof. Zhang Qian
+
+Advised by Prof. [Zhang Qian](http://xxjd.shnu.edu.cn/86/8e/c15561a362126/page.htm)
+
 
 ## Work Experience
 
