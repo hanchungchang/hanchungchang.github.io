@@ -13,6 +13,6 @@ I'm a M.S. student in the School of Information Science and Technology at the Sh
 ## Work Experience
 
 <img src="https://github.com/hanchungchang/hanchungchang.github.io/blob/gh-pages/mahle.jpg" width = "100" height = "100" div align=left />
-<font color=black size=5>Oct. 2018 - May. 2019, Mahle</font>
+<font size=50>Oct. 2018 - May. 2019, Mahle</font>
 
 IT Helpdesk
