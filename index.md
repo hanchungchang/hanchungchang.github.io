@@ -10,7 +10,7 @@ I'm a M.S. student in the School of Information Science and Technology at the Sh
 
 ## Education
 
-<img src="https://github.com/hanchungchang/hanchungchang.github.io/blob/gh-pages/shn.jpg" width = "100" height = "100" div align=left />
+<p><img src="https://github.com/hanchungchang/hanchungchang.github.io/blob/gh-pages/shn.jpg" width = "100" height = "100" div align=left /></p>
 
 
 
