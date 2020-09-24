@@ -11,4 +11,4 @@ I'm a M.S. student in the School of Information Science and Technology at the Sh
 ## Education
 
 ## Work Experience
-![avatar](mahle.png)
+![avatar](/mahle.png)
