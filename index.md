@@ -17,6 +17,8 @@ Undergraduate Student. GPA: 3.70/4.00
 
 Advised by Prof. [Zhang Qian](http://xxjd.shnu.edu.cn/86/8e/c15561a362126/page.htm)
 
+<img src="http://edu.online.sh.cn/education/gb/content/attachement/jpeg/site1/20190422/IMGd43d7e5f355650590517281.jpeg" width = "110" height = "110" div align=left />
+
 
 ## Work Experience
 
