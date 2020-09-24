@@ -11,4 +11,4 @@ I'm a M.S. student in the School of Information Science and Technology at the Sh
 ## Education
 
 ## Work Experience
-![text](https://github.com/hanchungchang/hanchungchang.github.io/blob/gh-pages/mahle.jpg?raw=True)
+<div align=left>![text](https://github.com/hanchungchang/hanchungchang.github.io/blob/gh-pages/mahle.jpg?raw=True)
