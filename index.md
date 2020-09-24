@@ -10,7 +10,7 @@ I'm a M.S. student in the School of Information Science and Technology at the Sh
 
 ## Education
 
-<img src="https://github.com/hanchungchang/hanchungchang.github.io/blob/gh-pages/shn.jpg" div align=left />
+<img src="https://github.com/hanchungchang/hanchungchang.github.io/blob/gh-pages/shn.jpg" width = "100" height = "100" div align=left />
 <strong>Sep. 2015 - Jun. 2019, Communication Engineering, Shanghai Normal University,</strong>
 
 Undergraduate Student. GPA: 3.70/4.00
