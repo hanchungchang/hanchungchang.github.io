@@ -14,4 +14,3 @@ I'm a M.S. student in the School of Information Science and Technology at the Sh
 
 <img src="https://github.com/hanchungchang/hanchungchang.github.io/blob/gh-pages/mahle.jpg" width = "100" height = "100" div align=left />
 
-%<div align=left>![text](https://github.com/hanchungchang/hanchungchang.github.io/blob/gh-pages/mahle.jpg?raw=True)
