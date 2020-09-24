@@ -14,7 +14,6 @@ I'm a M.S. student in the School of Information Science and Technology at the Sh
 <strong>Sep. 2015 - Jun. 2019, Communication Engineering, Shanghai Normal University,</strong>
 
 Undergraduate Student. GPA: 3.70/4.00
-
 Advised by Prof. [Zhang Qian](http://xxjd.shnu.edu.cn/86/8e/c15561a362126/page.htm)
 
 
